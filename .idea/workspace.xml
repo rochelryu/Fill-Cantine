@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="430f0ce6-d413-4def-aa6e-a5774c748df9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/JillCantine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/Authentif.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/DetailsSceen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/EditScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/FixeScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/ItemOneScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/ItemTwoScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/ProfilScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/SignUpScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/WeekScreen.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PickerBox</find>
+      <find>Mar</find>
+      <find>axios</find>
+      <find>sub</find>
+      <find>subm</find>
+      <find>Cl</find>
+      <find>getEcoleOfCommande</find>
+      <find>setClient</find>
+      <find>signin</find>
+      <find>prima</find>
+      <find>Moda</find>
+      <find>Fab</find>
+      <find>getEc</find>
+      <find>/me</find>
+      <find>Bu</find>
+      <find>getAllU</find>
+      <find>getAllUser</find>
+      <find>equi</find>
+      <find>allUser</find>
+      <find>find</find>
+      <find>tc</find>
+      <find>displ</find>
+      <find>Validate</find>
+      <find>clien</find>
+      <find>/'</find>
+      <find>info.CommandeInWait</find>
+      <find>comm</find>
+      <find>consol</find>
+      <find>setCommande</find>
+      <find>console</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules/react-native-tab-view/src/TabBar.js" />
+        <option value="$PROJECT_DIR$/Components/TestScreen.txt" />
+        <option value="$PROJECT_DIR$/Components/TestScreen.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/Components/BannerScreen.js" />
+        <option value="$PROJECT_DIR$/Components/CircularCarousel.js" />
+        <option value="$PROJECT_DIR$/node_modules/react-native-tab-view/src/TabBarItem.tsx" />
+        <option value="$PROJECT_DIR$/node_modules/react-native-tab-view/src/TabBar.tsx" />
+        <option value="$PROJECT_DIR$/node_modules/react-native-tab-view/src/TabBarIndicator.tsx" />
+        <option value="$PROJECT_DIR$/node_modules/react-native-tab-view/lib/commonjs/TabBar.js" />
+        <option value="$PROJECT_DIR$/node_modules/react-native-tab-view/lib/commonjs/TabBarIndicator.js" />
+        <option value="$PROJECT_DIR$/App.js" />
+        <option value="/tmp/fz3temp-2/package.json" />
+        <option value="/tmp/fz3temp-2/config.json" />
+        <option value="$PROJECT_DIR$/Components/ItemThreeScreen.js" />
+        <option value="$PROJECT_DIR$/Components/HomeScreen.js" />
+        <option value="/tmp/fz3temp-2/sys.js" />
+        <option value="/tmp/fz3temp-2/style.css" />
+        <option value="$PROJECT_DIR$/Components/EditScreen.js" />
+        <option value="$PROJECT_DIR$/Components/ItemTwoScreen.js" />
+        <option value="$PROJECT_DIR$/Components/ItemOneScreen.js" />
+        <option value="$PROJECT_DIR$/Components/WeekScreen.js" />
+        <option value="$PROJECT_DIR$/node_modules/react-native-switch-selector/index.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/react-native-switch-selector/index.js" />
+        <option value="$PROJECT_DIR$/app.json" />
+        <option value="/tmp/fz3temp-2/AdminSchM.js" />
+        <option value="$PROJECT_DIR$/Components/LoginScreen.js" />
+        <option value="$PROJECT_DIR$/node_modules/react-native-sectioned-multi-select/lib/sectioned-multi-select.js" />
+        <option value="$PROJECT_DIR$/Components/DetailsSceen.js" />
+        <option value="$PROJECT_DIR$/Components/SignUpScreen.js" />
+        <option value="$PROJECT_DIR$/Navigation/Navigation.js" />
+        <option value="$PROJECT_DIR$/Components/Authentif.js" />
+        <option value="$PROJECT_DIR$/Components/ProfilScreen.js" />
+        <option value="$PROJECT_DIR$/Components/FixeScreen.js" />
+        <option value="/tmp/fz3temp-2/index.twig" />
+        <option value="/tmp/fz3temp-2/serveur.js" />
+        <option value="/tmp/fz3temp-2/AdminQueri.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="1088" />
+    <option name="height" value="662" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JillCantine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JillCantine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JillCantine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JillCantine" type="462c0819:PsiDirectoryNode" />
+              <item name="Components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JillCantine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JillCantine" type="462c0819:PsiDirectoryNode" />
+              <item name="Navigation" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Bureau/ImageConvertToText" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="430f0ce6-d413-4def-aa6e-a5774c748df9" name="Default Changelist" comment="" />
+      <created>1559149673981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559149673981</updated>
+      <workItem from="1559149675871" duration="4305000" />
+      <workItem from="1559166730357" duration="12275000" />
+      <workItem from="1559224088154" duration="667000" />
+      <workItem from="1559314938708" duration="2237000" />
+      <workItem from="1559338680428" duration="591000" />
+      <workItem from="1559382601368" duration="26633000" />
+      <workItem from="1559437678215" duration="39850000" />
+      <workItem from="1559517780143" duration="20182000" />
+      <workItem from="1559555692447" duration="19524000" />
+      <workItem from="1559599841516" duration="9655000" />
+      <workItem from="1559692755007" duration="7368000" />
+      <workItem from="1559773398709" duration="1630000" />
+      <workItem from="1559816899548" duration="1827000" />
+      <workItem from="1559844665019" duration="611000" />
+      <workItem from="1559846499901" duration="6211000" />
+      <workItem from="1559870075937" duration="559000" />
+      <workItem from="1559896290003" duration="24615000" />
+      <workItem from="1559991001349" duration="10804000" />
+      <workItem from="1560003200260" duration="18190000" />
+      <workItem from="1560028438735" duration="31477000" />
+      <workItem from="1560120396720" duration="706000" />
+      <workItem from="1560169553916" duration="11269000" />
+      <workItem from="1560256702927" duration="39000" />
+      <workItem from="1560259951425" duration="4684000" />
+      <workItem from="1560357599709" duration="10627000" />
+      <workItem from="1560424660125" duration="1331000" />
+      <workItem from="1560433315730" duration="705000" />
+      <workItem from="1560449445053" duration="5388000" />
+      <workItem from="1560507773643" duration="5779000" />
+      <workItem from="1560598254376" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="279800000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27922562" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.839404" />
+      <window_info anchor="bottom" id="GraphQL" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50103307" side_tool="true" weight="0.36916837" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49896693" visible="true" weight="0.315" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="185" height="430" id="Documentation" order="3" side_tool="true" weight="0.3289597" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27922562" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.839404" />
+      <window_info anchor="bottom" id="GraphQL" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50103307" side_tool="true" weight="0.36916837" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49896693" visible="true" weight="0.43833333" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="185" height="430" id="Documentation" order="3" side_tool="true" weight="0.3289597" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-tab-view/src/TabBarItem.tsx" />
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-tab-view/lib/typescript/src/TabBarIndicator.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-super-grid/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-swiper/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="315" column="2" selection-start-line="315" selection-start-column="2" selection-end-line="315" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-swiper/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Components/BannerScreen.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/react-navigation/typescript/react-navigation.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="272" column="19" selection-start-line="272" selection-start-column="19" selection-end-line="272" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/test.jpeg" />
+    <entry file="file://$PROJECT_DIR$/assets/img/backLog.jpg" />
+    <entry file="file://$PROJECT_DIR$/assets/img/bf.jpg" />
+    <entry file="file://$PROJECT_DIR$/assets/img/nf.jpg" />
+    <entry file="file://$PROJECT_DIR$/assets/img/ig.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/wait.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/vs.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/cover.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/checked.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native/Libraries/Storage/AsyncStorage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="65" column="15" selection-start-line="65" selection-start-column="15" selection-end-line="65" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///tmp/fz3temp-2/package.json" />
+    <entry file="file:///tmp/fz3temp-2/config.json" />
+    <entry file="file://$PROJECT_DIR$/node_modules/native-base/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16821">
+          <caret line="802" column="24" selection-start-line="802" selection-start-column="12" selection-end-line="802" selection-end-column="24" />
+          <folding>
+            <element signature="e#32#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-select-input-ios/src/components/SelectInput.android/SelectInput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-select-input-ios/src/components/SelectInput.android/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-select-input-ios/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="49" lean-forward="true" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-select-input-ios/src/components/SelectInput.android/types.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native/Libraries/react-native/react-native-implementation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6594">
+          <caret line="314" column="6" selection-start-line="314" selection-start-column="6" selection-end-line="314" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///tmp/fz3temp-2/sys.js" />
+    <entry file="file:///tmp/fz3temp-2/style.css" />
+    <entry file="file://$PROJECT_DIR$/Components/ItemThreeScreen.js" />
+    <entry file="file://$PROJECT_DIR$/Components/EditScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="93" column="41" selection-start-line="93" selection-end-line="94" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Components/ItemOneScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="100" column="61" selection-start-line="100" selection-start-column="61" selection-end-line="100" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-switch-selector/index.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-switch-selector/index.d.ts" />
+    <entry file="file://$PROJECT_DIR$/Components/SignUpScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding>
+            <element signature="e#3617#5042#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-sectioned-multi-select/lib/sectioned-multi-select.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="72" column="19" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Components/Authentif.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Navigation/Navigation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="52" column="35" lean-forward="true" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Components/LoginScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2352">
+          <caret line="116" column="65" selection-start-line="116" selection-start-column="65" selection-end-line="116" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///tmp/fz3temp-2/AdminSchM.js" />
+    <entry file="file:///tmp/fz3temp-2/tabs.twig" />
+    <entry file="file:///tmp/fz3temp-2/serveur.js" />
+    <entry file="file:///tmp/fz3temp-2/AdminQueri.js" />
+    <entry file="file:///tmp/fz3temp-2/index.twig" />
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Components/WeekScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="50" column="91" selection-start-line="50" selection-start-column="80" selection-end-line="50" selection-end-column="91" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#234#281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Components/ItemTwoScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="93" column="47" lean-forward="true" selection-start-line="93" selection-start-column="47" selection-end-line="93" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Components/DetailsSceen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="226" column="28" lean-forward="true" selection-start-line="226" selection-start-column="28" selection-end-line="226" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#1408#1937#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Components/FixeScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="55" column="64" selection-start-line="55" selection-start-column="64" selection-end-line="55" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#189#230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Components/HomeScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Components/ProfilScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="99" column="18" lean-forward="true" selection-start-line="99" selection-start-column="18" selection-end-line="99" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
